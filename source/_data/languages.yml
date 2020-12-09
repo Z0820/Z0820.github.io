@@ -1,0 +1,41 @@
+en: # 将要覆盖的语言
+  menu:
+    home: My Index
+
+ja: # 将要覆盖的语言
+  menu:
+    home: マイインデックス
+
+zh-CN: # 将要覆盖的语言
+  menu:
+    home: 我的主页
+colors:
+  primary: "#6200ee"
+  # bg: "#F5F5F5"
+  selection_bg: "#8e71c1" # 选取文字时的背景色
+  # 标签云中标签的起始色和结束色
+  # tag_start_color:
+  # tag_end_color:
+tags:
+  Vue: "#4fc08d"
+  Hexo: "#0E834D"
+  CSS: "#5298d1"
+  Node.js: "#026E00"
+  Git: "#F14E32"
+  React: "#61dafb"
+  Python: "#3776ab"
+  PHP: "#8892BF"
+  VS Code: "#0066B8"
+  JavaScript: "#F4DF4F"
+  TypeScript: "#317AC6"
+  Laravel: "#F4645F"
+categories:
+  笔记: dimgray
+
+head:
+  css:
+    example: //example.min.css
+  js:
+    base:
+    async:
+    defer:
